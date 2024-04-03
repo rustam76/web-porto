@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "e-pmr",
+            "description": "e-pmr ini adalah sebuah aplikasi untuk membantu anak PMR dalam mempelajari palang merah remaja",
+            "tag": ["flutter"],
+            "link": "https://play.google.com/store/apps/details?id=com.ebookpmr",
+            "image": "../image/epmr.png"
+        },
+        {
+            "id": 2,
+            "name": "Buku pramuka",
+            "description": "buku pramuka berisi materi tentang pramuka",
+            "tag": ["flutter"],
+            "link": "https://play.google.com/store/apps/details?id=com.mypramuka",
+            "image": "../image/pramuka.png"
+        },
+        {
+            "id": 3,
+            "name": "Kamus Tolaki",
+            "description": "kamus tolaki membantu kamu dalam mengenal bahasa tolaki",
+            "tag": ["React native"],
+            "link": "https://play.google.com/store/apps/details?id=com.kamustolaki.anoacode",
+            "image": "../image/kamus.png"
+        },
+        {
+            "id": 4,
+            "name": "QuranKu",
+            "description": " quranku aplikasi alquran untuk mempermudah dalam memabaca alquran yang di bagun mengunakan api dari https://equran.id/",
+            "tag": ["React native"],
+            "link": "https://play.google.com/store/apps/details?id=com.qraa",
+            "image": "../image/quran.png"
+        }
+    ]
+}
