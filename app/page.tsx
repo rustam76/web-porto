@@ -5,7 +5,7 @@ import { title, subtitle } from "@/components/primitives";
 
 export default function Home() {
 	return (
-		<section className="flex flex-col items-center justify-center gap-4 py-16 md:py-14 ">
+		<section className="flex flex-col items-center justify-center gap-4 py-16 md:py-14 h-screen">
 			<div className="inline-block text-center justify-center">
 				<h1 className={title()}>Hi, i'm </h1>
 				<h1 className={title({ color: "violet" })}> rustam&nbsp;</h1>
